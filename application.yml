@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+student:
+  name: "John Doe"
+  regno: "REG12347"
+  email: "john@example.com"
+
+spring:
+  main:
+    banner-mode: "off"
+  application:
+    name: "spring-sql-submitter"
